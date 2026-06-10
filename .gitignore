@@ -5,3 +5,6 @@
 # Kaggle data files
 Projects/ai_projects/titanic/data/
 *.csv
+
+# Archive folder
+archive/
