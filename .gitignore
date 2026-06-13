@@ -8,3 +8,6 @@ Projects/ai_projects/titanic/data/
 
 # Archive folder
 archive/
+
+# Books (PDF)
+*.pdf
