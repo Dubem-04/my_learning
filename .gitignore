@@ -11,3 +11,6 @@ archive/
 
 # Books (PDF)
 *.pdf
+
+# Courses
+courses/
