@@ -1,16 +1,11 @@
-# Jupyter Notebook checkpoints
+__pycache__/
+*.pyc
 .ipynb_checkpoints/
-**/.ipynb_checkpoints/
-
-# Kaggle data files
-Projects/ai_projects/titanic/data/
-*.csv
-
-# Archive folder
-archive/
-
-# Books (PDF)
-*.pdf
-
-# Courses
+venv/
+.env
+*.pt
+*.pth
+*.ckpt
+data/
 courses/
+archive/
