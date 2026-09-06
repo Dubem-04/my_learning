@@ -6,6 +6,7 @@ venv/
 *.pt
 *.pth
 *.ckpt
+*.csv
 data/
 courses/
 archive/
