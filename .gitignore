@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+nb_workspace/
 venv/
 .env
 *.pt
