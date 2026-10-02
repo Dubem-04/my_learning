@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 nb_workspace/
+nb_workspace_downloads_sim/
 venv/
 .env
 *.pt
